@@ -1,0 +1,9 @@
+{
+  "name": "extless-loader",
+  "version": "1.0.0",
+  "description": "Load ES modules without extensions",
+  "main": "index.mjs",
+  "type": "module",
+  "author": "Tim Branyen (@tbranyen)",
+  "license": "MIT"
+}
